@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/niraj-karde" target="blank"><img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjcgMC0xMiA1LjM3My0xMiAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMi01LjM3My0xMi0xMi0xMnptLTIgMTZoLTJ2LTZoMnY2em0tMS02Ljg5MWMtLjYwNyAwLTEuMS0uNDk2LTEuMS0xLjEwOSAwLS42MTIuNDkyLTEuMTA5IDEuMS0xLjEwOXMxLjEuNDk3IDEuMSAxLjEwOWMwIC42MTMtLjQ5MyAxLjEwOS0xLjEgMS4xMDl6bTggNi44OTFoLTEuOTk4di0yLjg2MWMwLTEuODgxLTIuMDAyLTEuNzIyLTIuMDAyIDB2Mi44NjFoLTJ2LTZoMnYxLjA5M2MuODcyLTEuNjE2IDQtMS43MzYgNCAxLjU0OHYzLjM1OXoiLz48L3N2Zz4=" alt="niraj-karde" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/neeraj_2278" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neeraj_2278" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/neerajkarde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="neerajkarde" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karde_niraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karde_niraj" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/neerajkarde" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="codeforces:(neerajkarde)" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karde_niraj" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="leetcode:(karde_niraj)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
