@@ -3,15 +3,13 @@
 
 <img align="right" alt="Coding Gif" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGs4NHBwaXM1b2NzbHZ2MzF3djd2Y292dnllMDFld2Z1bDUyb2N0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **Notes App**
+- 🔭 I’m currently working on **Epub Reader**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I currently work on **MERN stack**
 
-- 💬 Ask me about **MERN, web-development, code debugging**
+- 💬 I am free to talk about **MERN, web-development, code debugging**
 
-- 📫 How to reach me **neeraj.karde01@gmail.com**
-
-- ⚡ Fun fact **I am a nerd.**
+- 📫 Contact me on **neeraj.karde01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
